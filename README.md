@@ -33,7 +33,7 @@ This MCP covers most of Paprika's useful API endpoints:
 | `paprika_list_recipes` | List all recipe UIDs and hashes |
 | `paprika_get_recipe` | Get a full recipe by UID |
 | `paprika_search_recipes` | Search by keyword across name, ingredients, categories, notes, directions |
-| `paprika_get_recipe_by_name` | Find a recipe by name (exact or fuzzy) |
+| `paprika_get_recipe_by_name` | Find a recipe by name (exact or partial) |
 | `paprika_grocery_lists` | List available grocery lists |
 | `paprika_list_groceries` | View items on a grocery list |
 | `paprika_push_groceries` | Add items to a grocery list |
