@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.plugin
+paprika_recipe_cache.json
+.env
