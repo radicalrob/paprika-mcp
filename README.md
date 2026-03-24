@@ -8,17 +8,16 @@ Search your recipe collection, create and update recipes, manage grocery lists,
 sync your full library to a local cache for instant offline search, and more —
 all from natural language in Claude.
 
-## Why This One?
+## What Can It Do?
 
-There are a few Paprika MCP servers out there. This one has significantly more
-coverage:
+This MCP covers most of Paprika's useful API endpoints:
 
 - **14 tools** covering the full recipe lifecycle (list, search, get, create,
   update, categorize) plus grocery lists, categories, and cache management
 - **Local cache with sync** — run `paprika_sync` once to download your entire
   library as JSON. After that, search is instant and offline. The cache auto-
   refreshes when you ask it to.
-- **Fuzzy name matching** — find recipes by partial or approximate name
+- **Name Lookup** — find recipes by exact or partial name
 - **Grocery list push** — send ingredient lists to any of your Paprika grocery
   lists, with per-store targeting
 - **Photo support** — attach photos to recipes from a file path, base64 data,
